@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sk-kaushik
-- 👀 I’m interested in creating user interfaces
-- 🌱 I’m currently learning Bootstrap and React Redux
+- 👀 I’m a React Developer
+- 🌱 I’m currently learning Next js.
 - 📫 How to reach me https://skkaushik.site
 
