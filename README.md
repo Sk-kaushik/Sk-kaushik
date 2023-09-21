@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Devle</h1>
+<h1 align="center">Hi 👋, I'm Sk Kaushik</h1>
 <h3 align="center">A passionate frontend developer & always learning new things!</h3>
 
 ## About me
@@ -47,6 +47,6 @@
 <a href="https://twitter.com/DevlePratik" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pratik_devle_twitter" /></a>
 </p>
 
-<a href="https://github.com/Pratik1005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratik1005&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="pratik_devle_github_stats" />
+<a href="https://github.com/sk-kaushik">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skkaushik&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="skkaushik_github_stats" />
 </a>
