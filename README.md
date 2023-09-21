@@ -5,8 +5,6 @@
 
 - Currently I'm learning & improving my React JS knowledge by building real world projects
 
-- I started writing blogs of my learnings <a href="https://pratikdevle.hashnode.dev/" target="_blank">here</a>
-
 - Apart from web devlopment I like to explore on personal finance
 
 ## Languages and Tools :
@@ -42,11 +40,10 @@
 
 <p align="left">
 <a href = "mailto:pratik.devle98@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/pratik-devle-296184160/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratik_devle_linkedin" /></a>
-<a href="https://pratikdevle.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="pratik_devle_hashnode" /></a>
-<a href="https://twitter.com/DevlePratik" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pratik_devle_twitter" /></a>
+<a href="https://www.linkedin.com/in/kaushik_sk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="skkaushik_linkedin" /></a>
+<a href="https://twitter.com/skkaushik_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="skkaushik__twitter" /></a>
 </p>
 
 <a href="https://github.com/sk-kaushik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skkaushik&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="skkaushik_github_stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sk-kaushik&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Sk-kaushik_github_stats" />
 </a>
