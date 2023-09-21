@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sk Kaushik</h1>
-<h3 align="center">A passionate frontend developer & always learning new things!</h3>
+<h3 align="center">Frontend Developer with 3+ years in industry</h3>
 
 ## About me
 
-- Currently I'm learning & improving my React JS knowledge by building real world projects
+- Frontend Developer with expertise in React and Next.
 
-- Apart from web devlopment I like to explore on personal finance
 
 ## Languages and Tools :
 
@@ -39,8 +38,8 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "mailto:pratik.devle98@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/kaushik_sk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="skkaushik_linkedin" /></a>
+<a href = "mailto:skkaushik021@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/kaushik-sk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="skkaushik_linkedin" /></a>
 <a href="https://twitter.com/skkaushik_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="skkaushik__twitter" /></a>
 </p>
 
